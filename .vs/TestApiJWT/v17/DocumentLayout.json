@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\revoketoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\revoketoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|e:\\back-end .net\\015 authentication and authorization\\projects\\testapijwt\\testapijwt\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7C6A-31F8-48A2-B5A0-D8D4691B03D6}|TestApiJWT\\TestApiJWT.csproj|solutionrelative:testapijwt\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevokeToken.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RevokeToken.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\RevokeToken.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RevokeToken.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\RevokeToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:32:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:18:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:16:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Program.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Program.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Program.cs",
+              "RelativeToolTip": "TestApiJWT\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:05:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Helpers\\JWT.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Helpers\\JWT.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Helpers\\JWT.cs",
+              "RelativeToolTip": "TestApiJWT\\Helpers\\JWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:01:05.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApiJWT\\appsettings.json",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\appsettings.json",
+              "RelativeToolTip": "TestApiJWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T20:56:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Services\\AuthService.cs",
+              "RelativeToolTip": "TestApiJWT\\Services\\AuthService.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAmwOcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:50:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TestApiJWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:49:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\RefreshToken.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:10:56.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecuredController.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Controllers\\SecuredController.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Controllers\\SecuredController.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Controllers\\SecuredController.cs",
+              "RelativeToolTip": "TestApiJWT\\Controllers\\SecuredController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:37:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Services\\IAuthService.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Services\\IAuthService.cs",
+              "RelativeToolTip": "TestApiJWT\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:50:09.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddRoleModel.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AddRoleModel.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\AddRoleModel.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AddRoleModel.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\AddRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:57:56.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\AuthModel.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\AuthModel.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\AuthModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:23:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\TokenRequestModel.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\TokenRequestModel.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:41:51.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "TestApiJWT\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\Back-End .NET\\015 Authentication and Authorization\\Projects\\TestApiJWT\\TestApiJWT\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "TestApiJWT\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:36:38.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
